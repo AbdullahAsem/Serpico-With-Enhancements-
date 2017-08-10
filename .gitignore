@@ -1,0 +1,8 @@
+db/master.db
+cert.pem
+key.pem
+tmp/*
+templates/*
+attachments/*
+config.json
+plugins/*
